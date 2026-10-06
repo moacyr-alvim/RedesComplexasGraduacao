@@ -1,0 +1,33 @@
+Brasil [csn] xmin=835 ntail=5428 alpha=1.314 theta=4.83e-06 (1/theta=2.07e+05) D=0.0214 p_gof=0.000 (200 reps)
+     cutoff vs powerlaw: R=287.4 p=5.32e-127
+     cutoff vs alpha1: R=266.3 p=8.06e-118
+     cutoff vs exponential: R=3476.6 p=3.85e-158
+     cutoff vs lognormal: R=75.0 p=1.17e-15
+Brasil [fix5000] xmin=5000 ntail=2335 alpha=1.205 theta=5.92e-06 (1/theta=1.69e+05) D=0.0433 p_gof=0.000 (500 reps)
+     cutoff vs powerlaw: R=182.0 p=3.87e-81
+     cutoff vs alpha1: R=18.1 p=1.72e-09
+     cutoff vs exponential: R=487.1 p=5.09e-25
+     cutoff vs lognormal: R=50.7 p=3.44e-11
+   (278s)
+SP [csn] xmin=593 ntail=940 alpha=1.296 theta=3e-06 (1/theta=3.33e+05) D=0.0269 p_gof=0.030 (200 reps)
+     cutoff vs powerlaw: R=49.2 p=3.37e-23
+     cutoff vs alpha1: R=58.4 p=3.22e-27
+     cutoff vs exponential: R=823.8 p=4.58e-35
+     cutoff vs lognormal: R=10.0 p=0.00822
+SP [fix5000] xmin=5000 ntail=384 alpha=1.276 theta=3.04e-06 (1/theta=3.29e+05) D=0.0507 p_gof=0.014 (500 reps)
+     cutoff vs powerlaw: R=25.2 p=1.29e-12
+     cutoff vs alpha1: R=7.7 p=8.8e-05
+     cutoff vs exponential: R=126.1 p=3.8e-08
+     cutoff vs lognormal: R=7.0 p=0.000648
+   (263s)
+BA [csn] xmin=389 ntail=468 alpha=1.305 theta=4.22e-06 (1/theta=2.37e+05) D=0.0408 p_gof=0.000 (200 reps)
+     cutoff vs powerlaw: R=23.2 p=9.4e-12
+     cutoff vs alpha1: R=31.5 p=2.09e-15
+     cutoff vs exponential: R=424.3 p=2.47e-51
+     cutoff vs lognormal: R=7.9 p=0.000243
+BA [fix5000] xmin=5000 ntail=154 alpha=1.136 theta=5.91e-06 (1/theta=1.69e+05) D=0.1091 p_gof=0.000 (500 reps)
+     cutoff vs powerlaw: R=14.3 p=9.1e-08
+     cutoff vs alpha1: R=0.6 p=0.29
+     cutoff vs exponential: R=30.2 p=8.24e-05
+     cutoff vs lognormal: R=7.6 p=7.64e-08
+   (260s)
